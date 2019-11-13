@@ -1,9 +1,0 @@
-practice\App.class
-practice\mapper\RoleMapper.class
-practice\utils\LogAspect.class
-practice\controller\BaseController.class
-practice\utils\GlobalException.class
-practice\service\RoleService.class
-practice\controller\RoleController.class
-practice\utils\SwaggerConfiguration.class
-practice\persistence\Role.class
