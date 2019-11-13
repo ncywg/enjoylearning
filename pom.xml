@@ -10,6 +10,7 @@
     <packaging>jar</packaging>
     <!--规范jdk 版本-->
     <properties>
+        <!--git ncy 分支-->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
