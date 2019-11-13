@@ -1,0 +1,8 @@
+切点表达式
+execution(modifiers-pattern? ret-type-pattern declaring-type-pattern? name-pattern(param-pattern) throws-pattern?)
+带问号的都是可以省略的
+
+方法类型? 返回类型 包路径? 方法名(参数信息) 异常类型？
+因为返回值不可省略 所以我们经常看到 * fun(..) 前面带个* 还以为是啥固定格式呢
+
+使用事务的时候只需要使用注解@Transactional springboot默认开启事务 但是习惯我们还是要在启动类上加入@EnableTransactionManagement启动事务注解的注解
